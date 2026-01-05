@@ -6,6 +6,11 @@ A simple MJPEG streaming server for ESP32-CAM
 - Streams MJPEG video at `/stream`
 - Health check at `/` just returns `OK`
 
+## Prerequisites
+- ESP32-CAM
+- ESP32-CAM-MB(CH340)
+- OV2640/OV3660 or else
+
 ## Getting Started
 
 ### 0. Clone repository
