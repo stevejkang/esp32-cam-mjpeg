@@ -8,6 +8,11 @@ A simple MJPEG streaming server for ESP32-CAM
 
 ## Getting Started
 
+### 0. Clone repository
+```bash
+git clone https://github.com/stevejkang/esp32-cam-mjpeg ESP32CamMJPEG
+```
+
 ### 1. Configure WiFi
 
 Copy `secrets.h.example` to `secrets.h` and fill in your WiFi credentials:
